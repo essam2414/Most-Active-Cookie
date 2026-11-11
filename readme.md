@@ -3,7 +3,7 @@
 A command line program to find the most active cookies for a given day (UTC) from a csv log.
 
 ## Requirements
-- Python 3.7 or newer
+- Python 3.11 or newer
 - No third-party packages (only the Python standard library)
 
 ## Installation
