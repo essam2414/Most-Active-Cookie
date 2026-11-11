@@ -3,7 +3,7 @@ name = "cookie_counter"
 version = "0.1.0"
 description = "A CLI tool to find the most active cookie from logs"
 readme = "readme.md"
-requires-python = ">=3.7"
+requires-python = ">=3.11"
 dependencies = []
 
 [project.scripts]
